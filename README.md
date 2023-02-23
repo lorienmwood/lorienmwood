@@ -1,11 +1,11 @@
-### 💻: Welcome to my GitHub page!
+### 💻 Welcome to my GitHub page!
 
 - I am currently studying to become a full-stack developer.
 
 ### :man_technologist: Languages and Tools :
 
 <div>
-<a href="https://go.dev/">
+<a href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg">
 <img src="Icons/go-original.svg" title="Golang"  alt="Golang" width="30" height="30"/>&nbsp;
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
