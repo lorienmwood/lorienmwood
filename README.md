@@ -2,7 +2,24 @@
 
 - I am currently studying to become a full-stack developer.
 
-### :man_technologist: Languages and Tools :
+### 👩‍💻: Languages and Tools :
+<div>
+<a href="https://go.dev/">
+<img src="Images/go.svg" title="Golang"  alt="Golang" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.w3schools.com/css/default.asp">
+<img src="Images/css.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.javascript.com/">
+<img src="Images/js.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://www.w3schools.com/html/">
+<img src="Images/html.svg" title="Html5"  alt="Html5" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="Images/vscode.svg" title="Vscode"  alt="Vscode" width="40" height="40"/>&nbsp;
+</a>
+</div>
 
 <!--
 
