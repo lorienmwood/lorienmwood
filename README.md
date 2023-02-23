@@ -1,4 +1,4 @@
-### :com_man: Welcome to my GitHub page!
+### 💻: Welcome to my GitHub page!
 
 - I am currently studying to become a full-stack developer.
 
