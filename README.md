@@ -9,7 +9,7 @@
 <img src"Images/go.png" title="Golang"  alt="Golang" width="30" height="30"/>&nbsp;
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
-<img src="Images/css3-original.svg" title="CSS"  alt="CSS" width="30" height="30"/>&nbsp;
+<img src="Images/css.png" title="CSS"  alt="CSS" width="30" height="30"/>&nbsp;
 </a>
 <a href="https://www.javascript.com/">
 <img src="Icons/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="30" height="30"/>&nbsp;
