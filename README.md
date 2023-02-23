@@ -4,24 +4,6 @@
 
 ### :man_technologist: Languages and Tools :
 
-<div>
-<a href="https://go.dev/">
-<img src![ScreenShot](/Images/go.png)"Images/go.png" title="Golang"  alt="Golang" width="30" height="30"/>&nbsp;
-</a>
-<a href="https://www.w3schools.com/css/default.asp">
-<img src="Images/css.png" title="CSS"  alt="CSS" width="30" height="30"/>&nbsp;
-</a>
-<a href="https://www.javascript.com/">
-<img src="Icons/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="30" height="30"/>&nbsp;
-</a>
-<a href="https://www.w3schools.com/html/">
-<img src="Icons/html5-original.svg" title="Html5"  alt="Html5" width="30" height="30"/>&nbsp;
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="Icons/vscode-original.svg" title="Vscode"  alt="Vscode" width="30" height="30"/>&nbsp;
-</a>
-</div>
-
 <!--
 
 https://github.com/devicons/devicon/tree/master/icons
