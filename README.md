@@ -1,4 +1,5 @@
- Welcome to my GitHub page!
+Welcome to my GitHub page!
+
 I am currently studying and striving to become a full-stack developer.
 
 👨‍💻 Languages and Tools :
