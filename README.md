@@ -6,7 +6,7 @@
 
 <div>
 <a href="https://go.dev/">
-<img src"Images/go.png" title="Golang"  alt="Golang" width="30" height="30"/>&nbsp;
+<img src![ScreenShot](/Images/go.png)"Images/go.png" title="Golang"  alt="Golang" width="30" height="30"/>&nbsp;
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
 <img src="Images/css.png" title="CSS"  alt="CSS" width="30" height="30"/>&nbsp;
