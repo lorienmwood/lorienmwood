@@ -2,7 +2,7 @@
 
 - I am currently studying to become a full-stack developer.
 
-### 👩‍💻: Languages and Tools :
+### 👩‍💻 Languages and Tools :
 <div>
 <a href="https://go.dev/">
 <img src="Images/go.svg" title="Golang"  alt="Golang" width="40" height="40"/>&nbsp;
