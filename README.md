@@ -1,6 +1,6 @@
 ### 💻 Welcome to my GitHub page!
 
-- I am currently studying to become a full-stack developer.
+- I am currently studying  BSc(Hons) Computer Science at Uiversity of London, Goldsmiths.
 
 ### 👩‍💻 Languages and Tools :
 <div>
