@@ -1,6 +1,6 @@
 ### 💻 Welcome to my GitHub page!
 
-- I am currently studying  BSc(Hons) Computer Science at Uiversity of London, Goldsmiths.
+- I am currently studying  BSc(Hons) Computer Science at Goldsmiths, Univeristy of London.
 
 ### 👩‍💻 Languages and Tools :
 <div>
