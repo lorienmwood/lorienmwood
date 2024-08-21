@@ -1,6 +1,6 @@
 ### 💻 Welcome to my GitHub page!
 
-- I am currently pursuing a BSc (Hons) in Computer Science at Goldsmiths, University of London.
+I am currently pursuing a BSc (Hons) in Computer Science at Goldsmiths, University of London.
 
 ### 👩‍💻 Languages and Tools :
 <div>
