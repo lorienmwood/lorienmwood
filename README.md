@@ -20,10 +20,10 @@ I am currently pursuing a BSc (Hons) in Computer Science at Goldsmiths, Universi
 <img src="Images/vscode.svg" title="Vscode"  alt="Vscode" width="40" height="40"/>&nbsp;
 </a>
   <a href="https://www.java.com/en/">
-<img src="Images/vscode.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+<img src="Images/java.png" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
 </a>
     <a href="https://www.python.org/">
-<img src="Images/vscode.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="Images/python.png" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 </a>
 </div>
 
